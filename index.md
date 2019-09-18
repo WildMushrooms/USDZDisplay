@@ -1,1 +1,1 @@
-You can view AR USDZ items [here](website.htnl)
+You can view AR USDZ items [here](website.html)
